@@ -1,6 +1,7 @@
 import React from 'react'
 import "./css/style.css"
-import sekil from './logo.svg'
+import sekil from '/logo.svg'
+import { FaLocationDot } from "react-icons/fa6";
 
 const Navbar = () => {
   return (
