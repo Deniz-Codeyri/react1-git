@@ -1,0 +1,12 @@
+@font-face {
+  font-family: SourceSans;
+  src: url(./assets/fonts/SourceSansPro-Regular.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: SourceSans;
+}
